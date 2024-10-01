@@ -5,8 +5,5 @@ print(v[4::])
 # Получите сет  символов
 w = 'abcdeabc'
 kit_j = list(w)
-print(kit_j)
-kit_j.sort()
-print(kit_j)
 kit = set(kit_j)
 print(kit)
